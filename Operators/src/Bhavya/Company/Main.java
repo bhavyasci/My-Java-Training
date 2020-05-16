@@ -26,5 +26,22 @@ public class Main {
             System.out.println("it is not an alien");
         else
             System.out.println("It is an Alien \uD83D\uDE31");
+
+        boolean isCar = false;
+        if(isCar = true) //Note the difference over here!! It will asssign the true value to isCar
+            System.out.println("it is a true value");
+
+        if(!isCar)
+           System.out.println("it will print false/true based on above if statement");
+
+        boolean wasCar = isCar ? true:false;
+
+        if(wasCar)
+        {System.out.println("wasCar is true");}
+
+        int ageOfClient = 20;
+        boolean isEighteenOver = ageOfClient==20 ? true:false;
+        System.out.println(isEighteenOver);
+
     }
 }
