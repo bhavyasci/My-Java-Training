@@ -7,6 +7,19 @@ public class Account {
     private String email;
     private String phoneNumber;
 
+    public Account(){
+        this("5678",0.0,"Default Name","Default.gmail.com","7021079265");
+    }
+
+    public Account(String accountNumber,double balance,
+                   String customerName,String email,String phoneNumber){
+        this.accountNumber=accountNumber;
+        this.balance=balance;
+        this.customerName=customerName;
+        this.email=email;
+        this.phoneNumber=phoneNumber;
+    }
+
     public void setAccountNumber(String accountNumber) {
         this.accountNumber = accountNumber;
     }
@@ -54,6 +67,8 @@ public class Account {
     public void withdraw(long value){
         if(value<=this.balance)
             this.balance -=value;
+        else
+            System.out.println("insufficient Account balance");
     }
 
 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d6e61a0-7986-44d3-b80f-7c5d1694b731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank Account/src/com/company/VipCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bhavya/Company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bhavya/Company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bhavya/Company/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/src/com/company/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/src/com/company/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dJSEP6AAfLfILOCDtsJHyyZZ3U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Bhavya.Company.Main" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d6e61a0-7986-44d3-b80f-7c5d1694b731" name="Default Changelist" comment="" />
+      <created>1592141590524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592141590524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="61" width="376" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1592213884363">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state x="448" y="61" width="376" height="558" key="#com.intellij.ide.util.MemberChooser/0.0.1280.685@0.0.1280.685" timestamp="1592213884363" />
+    <state width="1234" height="158" key="GridCell.Tab.0.bottom" timestamp="1592286453481">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state width="1234" height="158" key="GridCell.Tab.0.bottom/0.0.1280.685@0.0.1280.685" timestamp="1592286453481" />
+    <state width="1234" height="158" key="GridCell.Tab.0.center" timestamp="1592286453479">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state width="1234" height="158" key="GridCell.Tab.0.center/0.0.1280.685@0.0.1280.685" timestamp="1592286453479" />
+    <state width="1234" height="158" key="GridCell.Tab.0.left" timestamp="1592286453477">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state width="1234" height="158" key="GridCell.Tab.0.left/0.0.1280.685@0.0.1280.685" timestamp="1592286453477" />
+    <state width="1234" height="158" key="GridCell.Tab.0.right" timestamp="1592286453480">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state width="1234" height="158" key="GridCell.Tab.0.right/0.0.1280.685@0.0.1280.685" timestamp="1592286453480" />
+    <state x="303" y="149" key="run.anything.popup" timestamp="1592195718592">
+      <screen x="0" y="0" width="1280" height="685" />
+    </state>
+    <state x="303" y="149" key="run.anything.popup/0.0.1280.685@0.0.1280.685" timestamp="1592195718592" />
+  </component>
+</project>
